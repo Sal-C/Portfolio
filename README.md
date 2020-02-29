@@ -1,2 +1,2 @@
-# Portfolio-Homework
-link to website: "https://sal-c.github.io/Portfolio-Homework/"
+# Portfolio
+link to website: "https://sal-c.github.io/Portfolio/"
